@@ -1,0 +1,204 @@
+2020-08-08 16:46:52 INFO  poFlight 62 - Validate Flight
+2020-08-08 16:47:02 INFO  poFlight 135 - Enter Dates for To and From
+2020-08-08 16:47:07 INFO  poFlight 148 - Search Clicked
+2020-08-08 16:47:10 INFO  poFlight 160 - selectResultN
+2020-08-08 16:47:11 INFO  Flight 45 - FlightCode:assertAirports
+2020-08-08 16:47:11 INFO  poFlight 170 - assertAirports
+2020-08-08 16:47:13 INFO  poFlight 184 - logSeelectFlight
+2020-08-08 16:50:00 INFO  poFlight 62 - Validate Flight
+2020-08-08 16:50:12 INFO  poFlight 135 - Enter Dates for To and From
+2020-08-08 16:50:18 INFO  poFlight 148 - Search Clicked
+2020-08-08 16:51:06 INFO  poFlight 62 - Validate Flight
+2020-08-08 16:51:18 INFO  poFlight 135 - Enter Dates for To and From
+2020-08-08 16:51:25 INFO  poFlight 148 - Search Clicked
+2020-08-08 16:52:23 INFO  poFlight 62 - Validate Flight
+2020-08-08 16:52:34 INFO  poFlight 135 - Enter Dates for To and From
+2020-08-08 16:52:39 INFO  poFlight 148 - Search Clicked
+2020-08-08 16:52:43 INFO  poFlight 160 - selectResultN
+2020-08-08 16:52:44 INFO  Flight 45 - FlightCode:assertAirports
+2020-08-08 16:52:44 INFO  poFlight 170 - assertAirports
+2020-08-08 16:52:45 INFO  poFlight 184 - logSeelectFlight
+2020-08-08 16:56:51 INFO  poFlight 62 - Validate Flight
+2020-08-08 16:57:01 INFO  poFlight 135 - Enter Dates for To and From
+2020-08-08 16:57:30 INFO  poFlight 62 - Validate Flight
+2020-08-08 16:57:43 INFO  poFlight 135 - Enter Dates for To and From
+2020-08-08 16:58:10 INFO  poFlight 62 - Validate Flight
+2020-08-08 16:58:23 INFO  poFlight 135 - Enter Dates for To and From
+2020-08-08 16:58:34 INFO  poFlight 148 - Search Clicked
+2020-08-08 16:58:35 INFO  poFlight 160 - selectResultN
+2020-08-08 16:58:36 INFO  Flight 45 - FlightCode:assertAirports
+2020-08-08 16:58:36 INFO  poFlight 170 - assertAirports
+2020-08-08 16:58:37 INFO  poFlight 184 - logSeelectFlight
+2020-08-08 17:00:53 INFO  poFlight 62 - Validate Flight
+2020-08-08 17:01:05 INFO  poFlight 135 - Enter Dates for To and From
+2020-08-08 17:01:11 INFO  poFlight 148 - Search Clicked
+2020-08-08 17:01:11 INFO  poFlight 160 - selectResultN
+2020-08-08 17:01:12 INFO  Flight 45 - FlightCode:assertAirports
+2020-08-08 17:01:12 INFO  poFlight 170 - assertAirports
+2020-08-08 17:01:14 INFO  poFlight 184 - logSeelectFlight
+2020-08-08 17:47:32 INFO  poFlight 63 - Flight Tab Clicked
+2020-08-08 17:49:41 INFO  poFlight 63 - Flight Tab Clicked
+2020-08-08 17:50:24 INFO  poFlight 63 - Flight Tab Clicked
+2020-08-08 17:50:35 INFO  poFlight 136 - Enter Dates for To and From
+2020-08-08 17:50:38 INFO  poFlight 149 - Search Clicked
+2020-08-08 17:52:36 INFO  poFlight 63 - Flight Tab Clicked
+2020-08-08 17:52:46 INFO  poFlight 136 - Enter Dates for To and From
+2020-08-08 17:52:52 INFO  poFlight 149 - Search Clicked
+2020-08-08 17:54:16 INFO  poFlight 63 - Flight Tab Clicked
+2020-08-08 17:54:27 INFO  poFlight 136 - Enter Dates for To and From
+2020-08-08 17:54:33 INFO  poFlight 149 - Search Clicked
+2020-08-08 17:54:36 INFO  poFlight 161 - selectResultN
+2020-08-08 17:54:36 INFO  Flight 43 - BOS - DEL;DEL - BOS
+2020-08-08 17:54:36 INFO  Flight 46 - FlightCode:assertAirports
+2020-08-08 17:54:36 INFO  poFlight 171 - assertAirports
+2020-08-08 17:54:38 INFO  poFlight 185 - logSeelectFlight
+2020-08-08 18:25:17 INFO  poFlight 63 - Flight Tab Clicked
+2020-08-08 18:25:28 INFO  poFlight 136 - Enter Dates for To and From
+2020-08-08 18:25:36 INFO  poFlight 149 - Search Clicked
+2020-08-08 18:26:19 INFO  poFlight 63 - Flight Tab Clicked
+2020-08-08 18:26:29 INFO  poFlight 136 - Enter Dates for To and From
+2020-08-08 18:26:35 INFO  poFlight 149 - Search Clicked
+2020-08-08 18:26:39 INFO  poFlight 161 - selectResultN
+2020-08-08 18:26:39 INFO  Flight 43 - BOS - DEL;DEL - BOS
+2020-08-08 18:26:39 INFO  Flight 46 - FlightCode:assertAirports
+2020-08-08 18:26:39 INFO  poFlight 171 - assertAirports
+2020-08-08 18:26:40 INFO  poFlight 185 - logSeelectFlight
+2020-08-08 18:53:04 INFO  poFlight 63 - Flight Tab Clicked
+2020-08-08 18:53:15 INFO  poFlight 136 - Enter Dates for To and From
+2020-08-08 18:53:21 INFO  poFlight 149 - Search Clicked
+2020-08-08 18:53:27 INFO  poFlight 161 - selectResultN
+2020-08-08 18:53:27 INFO  Flight 43 - BOS - DEL;DEL - BOS
+2020-08-08 18:53:28 INFO  Flight 46 - FlightCode:assertAirports
+2020-08-08 18:53:28 INFO  poFlight 171 - assertAirports
+2020-08-08 18:53:29 INFO  poFlight 185 - logSeelectFlight
+2020-08-08 22:47:22 INFO  poFlight 63 - Flight Tab Clicked
+2020-08-08 22:47:34 INFO  poFlight 136 - Enter Dates for To and From
+2020-08-08 22:47:39 INFO  poFlight 149 - Search Clicked
+2020-08-08 22:48:56 INFO  poFlight 63 - Flight Tab Clicked
+2020-08-08 22:50:02 INFO  poFlight 63 - Flight Tab Clicked
+2020-08-08 22:50:15 INFO  poFlight 136 - Enter Dates for To and From
+2020-08-08 22:50:23 INFO  poFlight 149 - Search Clicked
+2020-08-08 22:50:24 INFO  poFlight 161 - selectResultN
+2020-08-08 22:50:24 INFO  Flight 43 - BOS - DEL;DEL - BOS
+2020-08-08 22:50:24 INFO  Flight 46 - FlightCode:assertAirports
+2020-08-08 22:50:24 INFO  poFlight 171 - assertAirports
+2020-08-08 22:50:28 INFO  poFlight 185 - logSeelectFlight
+2020-08-08 22:52:32 INFO  poFlight 63 - Flight Tab Clicked
+2020-08-08 22:52:46 INFO  poFlight 136 - Enter Dates for To and From
+2020-08-08 22:52:54 INFO  poFlight 149 - Search Clicked
+2020-08-08 22:52:56 INFO  poFlight 161 - selectResultN
+2020-08-08 22:52:56 INFO  Flight 43 - BOS - DEL;DEL - BOS
+2020-08-08 22:52:56 INFO  Flight 46 - FlightCode:assertAirports
+2020-08-08 22:52:56 INFO  poFlight 171 - assertAirports
+2020-08-08 22:52:57 INFO  poFlight 186 - logSeelectFlight
+2020-08-09 07:54:01 INFO  poFlight 63 - Flight Tab Clicked
+2020-08-09 07:54:11 INFO  poFlight 136 - Enter Dates for To and From
+2020-08-09 07:54:17 INFO  poFlight 149 - Search Clicked
+2020-08-09 07:55:00 INFO  poFlight 63 - Flight Tab Clicked
+2020-08-09 07:55:11 INFO  poFlight 136 - Enter Dates for To and From
+2020-08-09 07:55:16 INFO  poFlight 149 - Search Clicked
+2020-08-09 07:55:17 INFO  poFlight 161 - selectResultN
+2020-08-09 07:55:17 INFO  Flight 43 - BOS - DEL;DEL - BOS
+2020-08-09 07:55:17 INFO  Flight 46 - FlightCode:assertAirports
+2020-08-09 07:55:17 INFO  poFlight 171 - assertAirports
+2020-08-09 07:55:20 INFO  poFlight 186 - logSeelectFlight
+2020-08-09 08:01:24 INFO  poFlight 63 - Flight Tab Clicked
+2020-08-09 08:01:35 INFO  poFlight 136 - Enter Dates for To and From
+2020-08-09 08:01:41 INFO  poFlight 149 - Search Clicked
+2020-08-09 08:40:49 INFO  poFlight 63 - Flight Tab Clicked
+2020-08-09 08:41:01 INFO  poFlight 136 - Enter Dates for To and From
+2020-08-09 08:41:09 INFO  poFlight 149 - Search Clicked
+2020-08-09 08:55:51 INFO  poFlight 63 - Flight Tab Clicked
+2020-08-09 08:56:02 INFO  poFlight 136 - Enter Dates for To and From
+2020-08-09 08:56:09 INFO  poFlight 149 - Search Clicked
+2020-08-09 08:56:13 INFO  poFlight 161 - selectResultN
+2020-08-09 08:56:13 INFO  Flight 43 - BOS - DEL;DEL - BOS
+2020-08-09 08:56:13 INFO  Flight 46 - FlightCode:assertAirports
+2020-08-09 08:56:13 INFO  poFlight 171 - assertAirports
+2020-08-09 08:56:14 INFO  poFlight 186 - logSeelectFlight
+2020-08-09 09:00:13 INFO  poFlight 63 - Flight Tab Clicked
+2020-08-09 09:00:24 INFO  poFlight 136 - Enter Dates for To and From
+2020-08-09 09:00:31 INFO  poFlight 149 - Search Clicked
+2020-08-09 09:00:32 INFO  poFlight 161 - selectResultN
+2020-08-09 09:00:32 INFO  Flight 43 - BOS - DEL;DEL - BOS
+2020-08-09 09:04:20 INFO  poFlight 63 - Flight Tab Clicked
+2020-08-09 09:04:32 INFO  poFlight 136 - Enter Dates for To and From
+2020-08-09 09:04:37 INFO  poFlight 149 - Search Clicked
+2020-08-09 09:04:40 INFO  poFlight 161 - selectResultN
+2020-08-09 09:04:40 INFO  Flight 43 - BOS - DEL;DEL - BOS
+2020-08-09 09:04:41 INFO  Flight 46 - FlightCode:assertAirports
+2020-08-09 09:04:41 INFO  poFlight 171 - assertAirports
+2020-08-09 09:04:43 INFO  poFlight 186 - logSeelectFlight
+2020-08-09 09:08:52 INFO  poFlight 64 - Flight Tab Clicked
+2020-08-09 09:09:04 INFO  poFlight 137 - Enter Dates for To and From
+2020-08-09 09:09:09 INFO  poFlight 150 - Search Clicked
+2020-08-10 09:12:23 INFO  poFlight 64 - Flight Tab Clicked
+2020-08-10 09:12:34 INFO  poFlight 137 - Enter Dates for To and From
+2020-08-10 09:12:39 INFO  poFlight 150 - Search Clicked
+2020-08-11 08:20:30 INFO  poFlight 64 - Flight Tab Clicked
+2020-08-11 08:20:42 INFO  poFlight 137 - Enter Dates for To and From
+2020-08-11 08:20:47 INFO  poFlight 150 - Search Clicked
+2020-08-13 15:49:24 INFO  poFlight 64 - Flight Tab Clicked
+2020-08-13 15:49:36 INFO  poFlight 137 - Enter Dates for To and From
+2020-08-13 15:49:50 INFO  poFlight 150 - Search Clicked
+2020-08-13 15:51:42 INFO  poFlight 64 - Flight Tab Clicked
+2020-08-13 15:51:53 INFO  poFlight 137 - Enter Dates for To and From
+2020-08-13 15:52:00 INFO  poFlight 150 - Search Clicked
+2020-08-13 15:52:02 INFO  poFlight 162 - selectResultN
+2020-08-13 15:52:02 INFO  Flight 43 - BOS - DEL;DEL - BOS
+2020-08-13 15:52:02 INFO  Flight 46 - FlightCode:assertAirports
+2020-08-13 15:52:02 INFO  poFlight 172 - assertAirports
+2020-08-13 15:52:03 INFO  poFlight 187 - logSeelectFlight
+2020-08-13 16:09:20 INFO  poFlight 64 - Flight Tab Clicked
+2020-08-13 16:09:30 INFO  poFlight 137 - Enter Dates for To and From
+2020-08-13 16:09:38 INFO  poFlight 150 - Search Clicked
+2020-08-13 16:09:39 INFO  poFlight 162 - selectResultN
+2020-08-13 16:09:39 INFO  Flight 43 - BOS - DEL;DEL - BOS
+2020-08-13 16:09:39 INFO  Flight 46 - FlightCode:assertAirports
+2020-08-13 16:09:39 INFO  poFlight 172 - assertAirports
+2020-08-13 16:09:41 INFO  poFlight 187 - logSeelectFlight
+2020-08-13 17:30:38 INFO  poFlight 64 - Flight Tab Clicked
+2020-08-13 17:30:48 INFO  poFlight 137 - Enter Dates for To and From
+2020-08-13 17:30:53 INFO  poFlight 150 - Search Clicked
+2020-08-13 17:30:54 INFO  poFlight 162 - selectResultN
+2020-08-13 17:30:54 INFO  Flight 43 - BOS - DEL;DEL - BOS
+2020-08-13 17:40:16 INFO  poFlight 64 - Flight Tab Clicked
+2020-08-13 17:40:27 INFO  poFlight 137 - Enter Dates for To and From
+2020-08-13 17:40:34 INFO  poFlight 150 - Search Clicked
+2020-08-13 17:42:44 INFO  poFlight 64 - Flight Tab Clicked
+2020-08-13 17:42:54 INFO  poFlight 137 - Enter Dates for To and From
+2020-08-13 17:43:02 INFO  poFlight 150 - Search Clicked
+2020-08-13 17:59:18 INFO  poFlight 64 - Flight Tab Clicked
+2020-08-13 17:59:29 INFO  poFlight 137 - Enter Dates for To and From
+2020-08-13 17:59:36 INFO  poFlight 150 - Search Clicked
+2020-08-13 17:59:37 INFO  poFlight 162 - selectResultN
+2020-08-13 17:59:37 INFO  Flight 43 - BOS - DEL;DEL - BOS
+2020-08-13 17:59:37 INFO  Flight 46 - FlightCode:assertAirports
+2020-08-13 17:59:37 INFO  poFlight 172 - assertAirports
+2020-08-13 17:59:39 INFO  poFlight 187 - logSeelectFlight
+2020-08-14 07:48:14 INFO  poFlight 64 - Flight Tab Clicked
+2020-08-14 07:48:27 INFO  poFlight 137 - Enter Dates for To and From
+2020-08-14 07:48:33 INFO  poFlight 150 - Search Clicked
+2020-08-14 08:04:46 INFO  poFlight 64 - Flight Tab Clicked
+2020-08-14 08:04:58 INFO  poFlight 137 - Enter Dates for To and From
+2020-08-14 08:05:10 INFO  poFlight 151 - Search Clicked
+2020-08-14 08:05:11 INFO  poFlight 163 - selectResultN
+2020-08-14 08:05:11 INFO  Flight 43 - BOS - DEL;DEL - BOS
+2020-08-14 08:05:12 INFO  Flight 46 - FlightCode:assertAirports
+2020-08-14 08:05:12 INFO  poFlight 173 - assertAirports
+2020-08-14 08:05:13 INFO  poFlight 191 - logSeelectFlight
+2020-08-14 08:15:02 INFO  poFlight 64 - Flight Tab Clicked
+2020-08-14 08:15:16 INFO  poFlight 137 - Enter Dates for To and From
+2020-08-14 08:15:28 INFO  poFlight 151 - Search Clicked
+2020-08-14 08:41:30 INFO  poFlight 64 - Flight Tab Clicked
+2020-08-14 11:46:21 INFO  poFlight 64 - Flight Tab Clicked
+2020-08-14 11:46:35 INFO  poFlight 137 - Enter Dates for To and From
+2020-08-14 11:46:41 INFO  poFlight 151 - Search Clicked
+2020-08-14 11:47:57 INFO  poFlight 64 - Flight Tab Clicked
+2020-08-14 11:48:11 INFO  poFlight 137 - Enter Dates for To and From
+2020-08-14 11:48:23 INFO  poFlight 151 - Search Clicked
+2020-08-14 11:48:25 INFO  poFlight 163 - selectResultN
+2020-08-14 11:48:25 INFO  Flight 43 - BOS - DEL;DEL - BOS
+2020-08-14 11:48:26 INFO  Flight 46 - FlightCode:assertAirports
+2020-08-14 11:48:26 INFO  poFlight 173 - assertAirports
+2020-08-14 11:48:31 INFO  poFlight 193 - logSeelectFlight
